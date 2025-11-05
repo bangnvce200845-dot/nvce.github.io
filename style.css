@@ -45,7 +45,10 @@ nav li {
   display: inline-block;
   margin: 0 15px;
 }
-
+/* nav li {
+  display: inline-block;
+  margin: 0 15px;
+} */
 nav li a {
   color: white;
   font-weight: bold;
@@ -71,7 +74,7 @@ main p {
 
 /* ===== Hình ảnh trong main ===== */
 main div img {
-  width: 100px;          /* đồng bộ kích thước hình */
+  width: 10%;          /* đồng bộ kích thước hình */
   margin: 5px;           /* khoảng cách giữa các hình */
   border: 2px solid #ccc; 
   border-radius: 5px;
@@ -98,3 +101,4 @@ footer {
     width: 80px;
   }
 }
+
